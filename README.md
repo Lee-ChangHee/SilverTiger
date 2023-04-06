@@ -24,5 +24,6 @@ https://github.com/imyujinsim/project-st-fe
 4. 북마크
 
 ### 🙌 담당 역할 🙌 
-#### - 게시판 관련 기능, ERD 설계
+#### - 게시판 API 기능, 게시판 JWT 설정
+#### - JPA를 통해 게시판 테이블 구성, 관리
 #### - CORS
