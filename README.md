@@ -25,4 +25,4 @@ https://github.com/imyujinsim/project-st-fe
 
 ### 🙌 담당 역할 🙌 
 #### - 게시판 관련 기능
-#### - CORS 담당
+#### - CORS
