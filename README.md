@@ -31,5 +31,5 @@ https://github.com/imyujinsim/project-st-fe
 #### - JPA를 통해 게시판 테이블 구성, 관리
 #### - CORS
 
-##시연영상
+## 시연영상
 https://www.youtube.com/watch?v=9GR9_RNei2k&ab_channel=%EC%9D%B4%EC%B0%BD%ED%9D%AC
