@@ -32,7 +32,7 @@ https://github.com/imyujinsim/project-st-fe
    - 북마크 삭제
 
 ### 🙌 담당 역할 🙌 
-#### - 게시판 API 기능, 게시판 JWT 설정
+#### - 리뷰 API 기능, 리뷰 JWT 설정
 #### - JPA를 통해 게시판 테이블 구성, 관리
 #### - CORS
 
