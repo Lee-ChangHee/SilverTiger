@@ -31,10 +31,5 @@ https://github.com/imyujinsim/project-st-fe
    - 북마크 추가
    - 북마크 삭제
 
-### 🙌 담당 역할 🙌 
-#### - 리뷰 REST API 개발, 리뷰 JWT 설정
-#### - JPA를 통해 게시판 테이블 구성, 관리
-#### - CORS
-
 ## 시연영상
 https://www.youtube.com/watch?v=9GR9_RNei2k&ab_channel=%EC%9D%B4%EC%B0%BD%ED%9D%AC
